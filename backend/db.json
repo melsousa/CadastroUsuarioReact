@@ -1,11 +1,9 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Melissa de Sousa",
-        "email": "blabla@gmail.com"
-    },{
-        "id": 2,
-        "name": "Maria Julia",
-        "email": "maria@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Melissa de Sousa",
+      "email": "blabla@gmail.com"
+    }
+  ]
 }
